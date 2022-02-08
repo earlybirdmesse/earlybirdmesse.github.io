@@ -1,0 +1,41 @@
+header{
+	background: #94918b;
+	padding: 15px 15px;
+}
+
+body {
+	background:#6e9c81;
+	font-family: arial;
+}
+
+header h1 {
+	display: inline;
+	color: #00000;
+	padding: 10px;
+}
+
+nav ul{
+	margin: 10px;
+	display: inline;
+}
+
+nav ul li{
+	background: #75736d;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+}
+
+nav ul li a{
+	color: #466352;
+}
+
+p a{
+	color: #466352;
+}
+
+.Menu {
+	color: black;
+	background: #94918b;
+	padding: 25px 15px 25px 15px;
+}
